@@ -1,0 +1,1 @@
+var a=20,b=30;function testing(){console.log("Testing Function from custom js")}

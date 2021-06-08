@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css","custom.css"],"names":[],"mappings":"AACA,GACA,gBAAA,KCDA,EACA,MAAA","file":"../style.min.css","sourcesContent":["/* style.css */\r\nli {\r\n    list-style-type: none;\r\n}","/* Custom css */\r\np {\r\n  color: aliceblue;\r\n}\r\n"]}

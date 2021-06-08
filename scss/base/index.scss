@@ -1,0 +1,10 @@
+h1 {
+  color: $text-color;
+  padding: 10px;
+}
+h1:after,
+h1::before {
+  content: "🙏";
+  height: 30px;
+  margin: auto 30px;
+}
